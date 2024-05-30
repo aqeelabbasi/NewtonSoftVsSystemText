@@ -43,7 +43,7 @@ To get a local copy up and running, follow these simple steps.
 
 ### Prerequisites
 
-- [.NET 6.0 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
+- [.NET 8.0 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
 - [Visual Studio](https://visualstudio.microsoft.com/) or any other compatible IDE
 
 ### Installation
