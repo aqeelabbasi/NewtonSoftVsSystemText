@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\altafa\\source\\repos\\dotnet-json-codegen\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85A57543-6058-4550-BC04-6627420519DA}|JsonCodeGen.Benchmarks\\JsonCodeGen.Benchmarks.csproj|c:\\users\\altafa\\source\\repos\\dotnet-json-codegen\\src\\jsoncodegen.benchmarks\\findelementbenchmarks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A57543-6058-4550-BC04-6627420519DA}|JsonCodeGen.Benchmarks\\JsonCodeGen.Benchmarks.csproj|solutionrelative:jsoncodegen.benchmarks\\findelementbenchmarks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A57543-6058-4550-BC04-6627420519DA}|JsonCodeGen.Benchmarks\\JsonCodeGen.Benchmarks.csproj|c:\\users\\altafa\\source\\repos\\dotnet-json-codegen\\src\\jsoncodegen.benchmarks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A57543-6058-4550-BC04-6627420519DA}|JsonCodeGen.Benchmarks\\JsonCodeGen.Benchmarks.csproj|solutionrelative:jsoncodegen.benchmarks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 315,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\altafa\\source\\repos\\dotnet-json-codegen\\src\\JsonCodeGen.Benchmarks\\Program.cs",
+              "RelativeDocumentMoniker": "JsonCodeGen.Benchmarks\\Program.cs",
+              "ToolTip": "C:\\Users\\altafa\\source\\repos\\dotnet-json-codegen\\src\\JsonCodeGen.Benchmarks\\Program.cs",
+              "RelativeToolTip": "JsonCodeGen.Benchmarks\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:06:33.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FindElementBenchmarks.cs",
+              "DocumentMoniker": "C:\\Users\\altafa\\source\\repos\\dotnet-json-codegen\\src\\JsonCodeGen.Benchmarks\\FindElementBenchmarks.cs",
+              "RelativeDocumentMoniker": "JsonCodeGen.Benchmarks\\FindElementBenchmarks.cs",
+              "ToolTip": "C:\\Users\\altafa\\source\\repos\\dotnet-json-codegen\\src\\JsonCodeGen.Benchmarks\\FindElementBenchmarks.cs",
+              "RelativeToolTip": "JsonCodeGen.Benchmarks\\FindElementBenchmarks.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:05:33.588Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 85,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5726b0e3-1012-5233-81f9-d1fad48e7a56}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

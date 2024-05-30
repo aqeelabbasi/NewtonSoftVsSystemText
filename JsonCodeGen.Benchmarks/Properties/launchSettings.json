@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "Benchmark": {
+      "commandName": "Project"
+    },
+    "Demo mode": {
+      "commandName": "Project",
+      "commandLineArgs": "tradeaccuracyforspeed"
+    }
+  }
+}
